@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pad_system">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/pad_system.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
